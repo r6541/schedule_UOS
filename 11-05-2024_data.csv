@@ -1,0 +1,151 @@
+id,COL,DEPT,CRN,CRS_NO,TITLE,SECT,TYPE_,CAMP,ENROL,INSTR_ID,INSTRUCTOR,EXAM_DATE,COURSE_TYPE,COURSE_CLASS,time_slot
+2,14,BIOT,20567,1450301,Bio-informatics,53L,LAB,MAW,8,101028,Uzma  Inayat,11/05/2024,General,Year3,08:30AM - 10:30AM
+3,14,BIOT,20564,1450301,Bio-informatics,11L,LAB,UOS,22,101028,Uzma  Inayat,11/05/2024,General,Year3,08:30AM - 10:30AM
+77,14,APHY,20843,1430362,Thermal Physics,11,LEC,UOS,7,102083,Ihab Mohammad Naji Obaidat,11/05/2024,General,Year3,08:30AM - 10:30AM
+100,6,PRLW,21254,601321,Law of Civil Procedures,1,LEB,MAM,18,102108,Nizar  Mannai,11/05/2024,General,Year3,11:00AM - 13:00PM
+101,6,PRLW,21256,601321,Law of Civil Procedures,51,LEB,MAW,18,10413,Ali Abdel Hamid Torki,11/05/2024,General,Year3,11:00AM - 13:00PM
+128,5,MDI,21896,502472,Nuclear Medicine,71L,LAB,MDM,20,101794,Huseyin Ozan Tekin,11/05/2024,General,Year4,11:00AM - 13:00PM
+132,3,BUSP,23840,302360,Human Resources Management,11,LEC,UOS,45,101915,Salima  Hamouche,11/05/2024,General,Year3,11:00AM - 13:00PM
+167,5,PHTH,22142,505263,Biomechanics & Kinesiology(2),71,LEC,MDM,46,101667,Ibrahim Mostafa Abuamr,11/05/2024,General,Year2,13:30PM - 15:30PM
+181,5,MLT,21822,501364,Clinical Chemistry(2),71,LEC,MDM,33,101072,Mohamed Ibrahim Madkour,11/05/2024,General,Year3,13:30PM - 15:30PM
+185,5,NURS,23737,503468,Research Project,81,LEC,MDM,17,102101,Richard  Mottershead,11/05/2024,General,Year4,13:30PM - 15:30PM
+217,15,CENG,24265,1502202,Digital Logic Design Lab.,16,LAB,UOS,12,10528,Ibrahim Mostafa Kamel,11/05/2024,General,Year2,16:00PM - 18:00PM
+272,3,BUSP,23904,302375,Marketing Communications,1,LEC,MAM,16,102049,Salman  Yousaf,11/05/2024,General,Year3,16:00PM - 18:00PM
+283,14,BIOT,20562,1450301,Bio-informatics,12L,LAB,UOS,12,101028,Uzma  Inayat,11/05/2024,General,Year3,08:30AM - 10:30AM
+288,14,CHMS,20078,1420391,Chemical Literature & Seminar,11,LEC,UOS,12,101314,Abdelaziz  Elgamouz,11/05/2024,General,Year3,08:30AM - 10:30AM
+290,2,ENGL,20088,202111,Basic English,4,LEC,UOS,42,10158,Fadwa Mahmoud Sleiman,11/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+291,14,CHMS,24204,1420100,Remedial Chemistry,12,LEC,UOS,62,101313,Kamrul  Hasan,11/05/2024,General,Year1,08:30AM - 10:30AM
+322,2,ENGL,23439,202111,Basic English,5W,LEC,UOS,37,101156,Scott  Lauder,11/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+340,3,ACCT,20837,301322,Intermediate Accounting II,11,LEC,UOS,18,102113,Ammad  Ahmed,11/05/2024,General,Year3,08:30AM - 10:30AM
+351,3,ACCT,20800,301120,Financial Accounting,52,LEC,MAW,61,10940,Walaa W. Elkelish,11/05/2024,General,Year1,08:30AM - 10:30AM
+353,6,PBLW,20817,602454,Law of Criminal Procedures,1,LEB,MAM,16,102130,Rim  Helali,11/05/2024,General,Year4,08:30AM - 10:30AM
+392,5,HSGN,23245,500106,Human Anatomy & Physiology Lab,72L,LAB,MDM,1,101988,Gayathri  Arumughan,11/05/2024,General,Year1,11:00AM - 13:00PM
+396,4,MECH,22470,408318,Instrumentation & Measurements,11,LEC,UOS,11,101677,Tahar  Laoui,11/05/2024,General,Year3,11:00AM - 13:00PM
+409,11,PHPR,21891,1104452,Principle of OTC Therapy,73,LEC,MDM,61,101749,Feras Jassim Jirjees,11/05/2024,General,Year4,11:00AM - 13:00PM
+411,5,MDI,21895,502472,Nuclear Medicine,71,LEC,MDM,20,101794,Huseyin Ozan Tekin,11/05/2024,General,Year4,11:00AM - 13:00PM
+452,5,NURS,21097,503468,Research Project,76,LEC,MDM,12,101893,Fatma Refaat Abdelfattah Ahmed Abdelbaky,11/05/2024,General,Year4,13:30PM - 15:30PM
+485,8,PUBL,20592,807223,Protocol & Etiquette,11,LEB,UOS,50,101373,Engy Mohamed El Sayed,11/05/2024,General,Year2,16:00PM - 18:00PM
+516,6,PRLW,23554,601215,Rules of obligations &evidence,51,LEC,MAW,14,101993,Iyad M.I. Jadalhaq,11/05/2024,General,Year2,16:00PM - 18:00PM
+520,3,FNEC,23790,308433,Portfolio Management,11,LEC,UOS,15,101256,Ray Saadaoui Mallek,11/05/2024,General,Year4,16:00PM - 18:00PM
+561,2,ARAB,23272,201233,Research Methodology,11,LEC,UOS,17,10711,Mariam Saeed Bel Ajeed,11/05/2024,General,Year2,16:00PM - 18:00PM
+584,2,INRE,20366,205390,Foreign Policy,11,LEC,UOS,58,101865,Muhamed  Ali,11/05/2024,General,Year3,08:30AM - 10:30AM
+628,4,ARCH,21964,404231,Building Construction I,14,LEB,UOS,17,101010,Md. Mamun Ur. Rahid Md. Anisur Rahman,11/05/2024,General,Year2,08:30AM - 10:30AM
+633,6,PBLW,20818,602454,Law of Criminal Procedures,51,LEB,MAW,14,102130,Rim  Helali,11/05/2024,General,Year4,08:30AM - 10:30AM
+653,1,FREL,23516,104318,Studies of Sects,1,LEC,MAM,14,101881,Mahmoud Batal Mohamed Ahmed,11/05/2024,General,Year3,11:00AM - 13:00PM
+687,2,SOCI,20910,204225,Social Work  Community,11,LEC,UOS,72,101791,Wafa Barhoumi EP Hamdi,11/05/2024,General,Year2,11:00AM - 13:00PM
+691,2,ENGL,20656,202320,World Literature in English,11,LEC,UOS,14,102166,Gerald David Naughton,11/05/2024,General,Year3,13:30PM - 15:30PM
+695,4,SREE,24200,406461,Special Topics in Solar Energy,11,LEC,UOS,31,101448,Bashria Abdrubalrasoul Abdalla  Yousef,11/05/2024,General,Year4,13:30PM - 15:30PM
+697,14,CHMS,20009,1420101,General Chemistry (1),52,LEC,MAW,50,102136,Montaha Anjass Almasri,11/05/2024,General,Year1,13:30PM - 15:30PM
+716,6,PRLW,24077,601422,Enforcement Procedures,51,LEC,MAW,50,101826,Munira Mohamad Abdallah Salem,11/05/2024,General,Year4,13:30PM - 15:30PM
+732,5,PHTH,22147,505263,Biomechanics & Kinesiology(2),72,LEC,MDM,42,101795,Meeyoung  Kim,11/05/2024,General,Year2,13:30PM - 15:30PM
+765,4,CIVL,20492,401345,Introduction to Env. Eng.,11,LEC,UOS,21,101431,Mohamed  Abdallah,11/05/2024,General,Year3,16:00PM - 18:00PM
+766,2,ENGL,20095,202218,Drama,11,LEC,UOS,18,101628,Andrew Joseph Power,11/05/2024,General,Year2,16:00PM - 18:00PM
+835,4,CIVL,20514,401437,Construction Engineering,12,LEC,UOS,37,101833,Ram Kumar Bharadwaj Mantha,11/05/2024,General,Year4,08:30AM - 10:30AM
+836,14,BIOT,20568,1450301,Bio-informatics,52L,LAB,MAW,7,101028,Uzma  Inayat,11/05/2024,General,Year3,08:30AM - 10:30AM
+841,14,CHMS,20002,1420100,Remedial Chemistry,11,LEC,UOS,70,101902,Abdelnasser Metwally Aly Kawde,11/05/2024,General,Year1,08:30AM - 10:30AM
+843,2,ENGL,20169,202111,Basic English,02F,LEC,UOS,27,30134,Ambreen  Zehra,11/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+850,14,BIOT,20389,1450301,Bio-informatics,51,LEC,MAW,17,101318,Hassene Haj Kacem,11/05/2024,General,Year3,08:30AM - 10:30AM
+851,14,BIOT,20391,1450301,Bio-informatics,11,LEC,UOS,53,101318,Hassene Haj Kacem,11/05/2024,General,Year3,08:30AM - 10:30AM
+867,4,EECE,21009,402340,Eng. Comp. & Linear Algebra,1,LEC,MAM,22,101952,Mahmoud A. M. Albreem,11/05/2024,General,Year3,08:30AM - 10:30AM
+880,4,IEMG,22405,405433,Supply Chain Management,11,LEC,UOS,31,10960,Ali  Cheaitou,11/05/2024,General,Year4,08:30AM - 10:30AM
+907,4,EECE,20848,402340,Eng. Comp. & Linear Algebra,12,LEC,UOS,40,101938,Hissam Mouayad Tawfik,11/05/2024,General,Year3,08:30AM - 10:30AM
+923,11,PHPR,24226,1104452,Principle of OTC Therapy,75,LEC,MDM,42,102138,Zelal Jaber Kharaba,11/05/2024,General,Year4,11:00AM - 13:00PM
+938,8,COMM,22156,800112,Media Writing,51,LEB,MAW,21,10841,Nassir  Bou Ali,11/05/2024,General,Year1,11:00AM - 13:00PM
+961,14,CHMS,20010,1420101,General Chemistry (1),53T,LEC,MAW,49,101670,Mahreen  Arooj,11/05/2024,General,Year1,13:30PM - 15:30PM
+962,14,CHMS,20004,1420101,General Chemistry (1),03R,LEC,MAM,55,102156,Mohamed Shaban Nafie El Sayed,11/05/2024,General,Year1,13:30PM - 15:30PM
+1012,5,MLT,21828,501364,Clinical Chemistry(2),73L,LAB,MDM,26,10216,Omar Mahmoud Chebbo,11/05/2024,General,Year3,13:30PM - 15:30PM
+1014,5,MLT,21824,501364,Clinical Chemistry(2),72,LEC,MDM,38,101072,Mohamed Ibrahim Madkour,11/05/2024,General,Year3,13:30PM - 15:30PM
+1018,5,NURS,23738,503468,Research Project,79,LEC,MDM,11,102041,Muna Hassan Mohammed Hammash,11/05/2024,General,Year4,13:30PM - 15:30PM
+1019,5,NURS,23739,503468,Research Project,84,LEC,MDM,17,10780,Wegdan Ahmad Bani Issa,11/05/2024,General,Year4,13:30PM - 15:30PM
+1020,5,NURS,23739,503468,Research Project,84,LEC,MDM,17,101895,Mustafa Muhamad Habeb,11/05/2024,General,Year4,13:30PM - 15:30PM
+1029,3,BUSP,20692,302170,Principles of Marketing,01B,LEC,MAM,61,101935,Faridahwati  Binti Mohd Shamsudin,11/05/2024,General,Year1,16:00PM - 18:00PM
+1035,14,CHMS,20059,1420103,General Chemistry (2),11,LEC,UOS,44,102136,Montaha Anjass Almasri,11/05/2024,General,Year1,16:00PM - 18:00PM
+1039,3,BUSP,20696,302170,Principles of Marketing,53B,LEC,MAW,42,101773,Muhammad Turki Alshurideh,11/05/2024,General,Year1,16:00PM - 18:00PM
+1076,4,ARCH,21976,404313,Rein.Con.Des.of Buildings I,11,LEC,UOS,40,101486,Muhammad Talha Junaid,11/05/2024,General,Year3,16:00PM - 18:00PM
+1087,5,NURS,20933,503261,Psychosocial Aspects/ Hth Prof,73,LEC,MDM,30,101719,Jacqueline Maria  Dias,11/05/2024,General,Year2,16:00PM - 18:00PM
+1089,5,NURS,20934,503261,Psychosocial Aspects/ Hth Prof,74,LEC,MDM,22,101719,Jacqueline Maria  Dias,11/05/2024,General,Year2,16:00PM - 18:00PM
+1097,14,BIOT,20566,1450301,Bio-informatics,51L,LAB,MAW,21,101028,Uzma  Inayat,11/05/2024,General,Year3,08:30AM - 10:30AM
+1104,2,ENGL,20110,202111,Basic English,52,LEC,UOS,21,10613,Amal KH. Thabet,11/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+1157,4,ARCH,21954,404231,Building Construction I,11,LEB,UOS,12,101010,Md. Mamun Ur. Rahid Md. Anisur Rahman,11/05/2024,General,Year2,08:30AM - 10:30AM
+1159,15,COSC,21920,1501319,Prog. Languages and Paradigms,11,LEC,UOS,50,102145,Mehdi  Jemmali,11/05/2024,General,Year3,08:30AM - 10:30AM
+1184,11,PHPR,24226,1104452,Principle of OTC Therapy,75,LEC,MDM,42,101749,Feras Jassim Jirjees,11/05/2024,General,Year4,11:00AM - 13:00PM
+1191,6,PRLW,21256,601321,Law of Civil Procedures,51,LEB,MAW,18,102108,Nizar  Mannai,11/05/2024,General,Year3,11:00AM - 13:00PM
+1216,11,PHPR,21891,1104452,Principle of OTC Therapy,73,LEC,MDM,61,102138,Zelal Jaber Kharaba,11/05/2024,General,Year4,11:00AM - 13:00PM
+1240,5,NURS,21075,503468,Research Project,71,LEC,MDM,15,101719,Jacqueline Maria  Dias,11/05/2024,General,Year4,13:30PM - 15:30PM
+1243,15,BUIS,23613,1503333,Information Security,11,LEC,UOS,37,101975,Mohamed Elhoseny Ibrahim Elkholy,11/05/2024,General,Year3,13:30PM - 15:30PM
+1248,5,PHTH,22142,505263,Biomechanics & Kinesiology(2),71,LEC,MDM,46,101795,Meeyoung  Kim,11/05/2024,General,Year2,13:30PM - 15:30PM
+1254,4,MECH,22337,408273,Applied Fluid Mechanics,11,LEC,UOS,12,102070,Ihsanullah  Obaidullah,11/05/2024,General,Year2,13:30PM - 15:30PM
+1265,5,MLT,21827,501364,Clinical Chemistry(2),72L,LAB,MDM,25,10216,Omar Mahmoud Chebbo,11/05/2024,General,Year3,13:30PM - 15:30PM
+1279,15,CENG,20618,1502202,Digital Logic Design Lab.,12,LAB,UOS,16,10528,Ibrahim Mostafa Kamel,11/05/2024,General,Year2,16:00PM - 18:00PM
+1320,3,BUSP,24498,302170,Principles of Marketing,12,LEC,UOS,52,101773,Muhammad Turki Alshurideh,11/05/2024,General,Year1,16:00PM - 18:00PM
+1348,3,BUSP,20699,302493,Pay and Salary Administration,11,LEC,UOS,37,101915,Salima  Hamouche,11/05/2024,General,Year4,08:30AM - 10:30AM
+1383,4,EECE,21006,402340,Eng. Comp. & Linear Algebra,11,LEC,UOS,40,101344,Sohaib  Majzoub,11/05/2024,General,Year3,08:30AM - 10:30AM
+1393,5,MLT,22022,501464,Medical Mycology,71,LEC,MDM,23,101644,Raed Omar Abu Odeh,11/05/2024,General,Year4,08:30AM - 10:30AM
+1415,2,ENGL,24621,202111,Basic English,6,LEC,UOS,36,10160,Saleh Mohamed El Saafin,11/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+1438,6,PBLW,20817,602454,Law of Criminal Procedures,1,LEB,MAM,16,101663,Abdulellah Mohammed Salim Al Nawayseh,11/05/2024,General,Year4,08:30AM - 10:30AM
+1458,11,PHPR,23812,1104452,Principle of OTC Therapy,74,LEC,MDM,42,102138,Zelal Jaber Kharaba,11/05/2024,General,Year4,11:00AM - 13:00PM
+1459,4,SREE,23339,406320,Solar PV Systems,12,LEC,UOS,35,101342,Di  Zhang,11/05/2024,General,Year3,11:00AM - 13:00PM
+1463,4,ARCH,23371,404481,Sel. Top. in Struc. Eng.,11,LEC,UOS,16,101980,Samir Mohammed Osman Hassan Dirar,11/05/2024,General,Year4,11:00AM - 13:00PM
+1466,15,COSC,23361,1501441,Multimedia Technology,11,LEC,UOS,49,101846,Mohammad Abdullah A.R. Alsmirat,11/05/2024,General,Year4,11:00AM - 13:00PM
+1482,8,COMM,22266,800112,Media Writing,12,LEB,UOS,21,102030,Leon Yousif Barkho,11/05/2024,General,Year1,11:00AM - 13:00PM
+1489,4,MECH,22900,408435,Instrumentation & Measurements,11,LEC,UOS,2,101677,Tahar  Laoui,11/05/2024,General,Year4,11:00AM - 13:00PM
+1502,14,CHMS,20011,1420101,General Chemistry (1),54T,LEC,MAW,61,102156,Mohamed Shaban Nafie El Sayed,11/05/2024,General,Year1,13:30PM - 15:30PM
+1515,3,ACCT,23612,301321,Intermediate Accounting I,12,LEC,UOS,36,10940,Walaa W. Elkelish,11/05/2024,General,Year3,13:30PM - 15:30PM
+1539,4,NUCL,22342,407403,Advanced Nuclear Lab,11,LAB,UOS,8,101338,Muhammad  Zubair,11/05/2024,General,Year4,13:30PM - 15:30PM
+1567,3,BUSP,20693,302170,Principles of Marketing,11B,LEC,UOS,46,102116,Yuhanis  Binti AB Aziz,11/05/2024,General,Year1,16:00PM - 18:00PM
+1572,1,FREL,20709,104321,Recitation Mem & Tajweed (2),51,LEC,MAW,23,101996,Kaltum Mohamed Hared Mohamed,11/05/2024,General,Year3,16:00PM - 18:00PM
+1575,2,INRE,20397,205225,Middle East in Int. Relations,11,LEC,UOS,51,102148,Mona  Salman,11/05/2024,General,Year2,16:00PM - 18:00PM
+1579,3,BUSP,23861,302375,Marketing Communications,51,LEC,MAW,19,102049,Salman  Yousaf,11/05/2024,General,Year3,16:00PM - 18:00PM
+1583,3,BUSP,23830,302170,Principles of Marketing,01V,LEC,MAM,51,101773,Muhammad Turki Alshurideh,11/05/2024,General,Year1,16:00PM - 18:00PM
+1646,2,ENGL,23104,202111,Basic English,07M,LEC,UOS,79,101156,Scott  Lauder,11/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+1650,2,EDUC,20032,206411,Child Prob & Behavior Mod.,51,LEC,MAW,16,102149,Najeh Rajeh Ibrahim Alsalhi,11/05/2024,General,Year4,08:30AM - 10:30AM
+1652,2,ENGL,20172,202111,Basic English,54S,LEC,UOS,61,101157,Douglas James Rapley,11/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+1702,4,ARCH,21960,404231,Building Construction I,12,LEB,UOS,8,101010,Md. Mamun Ur. Rahid Md. Anisur Rahman,11/05/2024,General,Year2,08:30AM - 10:30AM
+1704,4,ARCH,21962,404231,Building Construction I,13,LEB,UOS,16,101010,Md. Mamun Ur. Rahid Md. Anisur Rahman,11/05/2024,General,Year2,08:30AM - 10:30AM
+1719,6,PBLW,20818,602454,Law of Criminal Procedures,51,LEB,MAW,14,101663,Abdulellah Mohammed Salim Al Nawayseh,11/05/2024,General,Year4,08:30AM - 10:30AM
+1722,4,EECE,20855,402340,Eng. Comp. & Linear Algebra,51,LEC,MAW,15,102103,Muhammad Mubasshir Shaikh,11/05/2024,General,Year3,08:30AM - 10:30AM
+1724,3,ACCT,20795,301120,Financial Accounting,12B,LEC,UOS,58,101955,Muhammad  Al Mahameed,11/05/2024,General,Year1,08:30AM - 10:30AM
+1729,8,PUBL,20591,807421,Crisis Management in PR.,11,LEC,UOS,28,10738,Khaled  Zamoum,11/05/2024,General,Year4,11:00AM - 13:00PM
+1734,3,BUSP,20689,302360,Human Resources Management,51,LEC,MAW,57,101915,Salima  Hamouche,11/05/2024,General,Year3,11:00AM - 13:00PM
+1735,3,BUSP,20690,302360,Human Resources Management,1,LEC,MAM,41,101915,Salima  Hamouche,11/05/2024,General,Year3,11:00AM - 13:00PM
+1746,11,PHPR,23812,1104452,Principle of OTC Therapy,74,LEC,MDM,42,101749,Feras Jassim Jirjees,11/05/2024,General,Year4,11:00AM - 13:00PM
+1748,4,SREE,23338,406320,Solar PV Systems,52,LEC,MAW,12,101118,A  Anis Allagui,11/05/2024,General,Year3,11:00AM - 13:00PM
+1775,2,HISL,22449,203242,Aspect of the Modern Gulf Hist,11,LEC,UOS,18,101971,Saif Mohammed Obaid Binabood Albedwawi,11/05/2024,General,Year2,11:00AM - 13:00PM
+1787,15,COSC,21915,1501263,Intro. to Database Manag. Sys.,11,LEC,UOS,51,P-2877,Mohammad Rustom Alnasar,11/05/2024,General,Year2,11:00AM - 13:00PM
+1797,14,CHMS,20013,1420101,General Chemistry (1),56,LEC,MAW,50,102136,Montaha Anjass Almasri,11/05/2024,General,Year1,13:30PM - 15:30PM
+1805,15,CENG,24196,1502463,Special Topics in SCA,11,LEC,UOS,17,102172,Kais  Belwafi,11/05/2024,General,Year4,13:30PM - 15:30PM
+1813,6,PRLW,24076,601422,Enforcement Procedures,11,LEC,MAM,63,101826,Munira Mohamad Abdallah Salem,11/05/2024,General,Year4,13:30PM - 15:30PM
+1818,6,LAW,24052,606181,Public International Law,11,LEC,UOS,40,101458,Shadi Adnan  Alshdaifat,11/05/2024,General,Year1,13:30PM - 15:30PM
+1822,5,NURS,21099,503468,Research Project,77,LEC,MDM,17,102175,Muna Mohammed Salem Al-Tamimi,11/05/2024,General,Year4,13:30PM - 15:30PM
+1823,5,NURS,21099,503468,Research Project,77,LEC,MDM,17,101669,Muhammad Arsyad Subu,11/05/2024,General,Year4,13:30PM - 15:30PM
+1825,5,NURS,21088,503468,Research Project,73,LEC,MDM,15,101069,Nabeel Salem AL-Yateem,11/05/2024,General,Year4,13:30PM - 15:30PM
+1826,4,SREE,21603,406300,Heat Transfer,11,LEC,UOS,37,101485,Muhammad Radwan Tawalbeh,11/05/2024,General,Year3,13:30PM - 15:30PM
+1851,5,MLT,21826,501364,Clinical Chemistry(2),71L,LAB,MDM,20,10216,Omar Mahmoud Chebbo,11/05/2024,General,Year3,13:30PM - 15:30PM
+1858,3,ACCT,20823,301321,Intermediate Accounting I,11,LEC,UOS,27,10940,Walaa W. Elkelish,11/05/2024,General,Year3,13:30PM - 15:30PM
+1865,1,FREL,20708,104321,Recitation Mem & Tajweed (2),1,LEC,MAM,16,70114,Amjad Mhd Alhenawi,11/05/2024,General,Year3,16:00PM - 18:00PM
+1872,6,PRLW,21226,601215,Rules of obligations &evidence,1,LEC,MAM,29,101993,Iyad M.I. Jadalhaq,11/05/2024,General,Year2,16:00PM - 18:00PM
+1904,11,PHPR,24559,1104451,Drug liter. Evalu. & Pharm.,71,LEC,MDM,1,101943,Khalid Awad Ayoob Al-Kubaissi,11/05/2024,General,Year4,16:00PM - 18:00PM
+1915,4,ARCH,21977,404313,Rein.Con.Des.of Buildings I,12,LEC,UOS,18,101486,Muhammad Talha Junaid,11/05/2024,General,Year3,16:00PM - 18:00PM
+1927,5,NURS,20930,503261,Psychosocial Aspects/ Hth Prof,72,LEC,MDM,66,101895,Mustafa Muhamad Habeb,11/05/2024,General,Year2,16:00PM - 18:00PM
+1934,2,ENGL,20167,202111,Basic English,51,LEC,UOS,32,10158,Fadwa Mahmoud Sleiman,11/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+1944,8,MASS,24248,808214,Photojournalism,11,LEB,UOS,19,101478,Chinyeaka Ogadimma  Emenyeonu,11/05/2024,General,Year2,08:30AM - 10:30AM
+1960,3,BUSP,21715,302344,Logistics and SC Modeling,11,LEC,UOS,46,101914,Mohamed D. A. Shamout,11/05/2024,General,Year3,08:30AM - 10:30AM
+1970,2,HISL,22432,203430,History of Islamic Thought,11,LEC,UOS,9,10774,Nadjib  ben kheira,11/05/2024,General,Year4,08:30AM - 10:30AM
+1982,15,COSC,21923,1501319,Prog. Languages and Paradigms,12,LEC,UOS,42,102145,Mehdi  Jemmali,11/05/2024,General,Year3,08:30AM - 10:30AM
+1991,3,ACCT,20916,301120,Financial Accounting,11M,LEC,UOS,34,101955,Muhammad  Al Mahameed,11/05/2024,General,Year1,08:30AM - 10:30AM
+2007,1,FREL,20707,104318,Studies of Sects,51,LEC,MAW,8,101881,Mahmoud Batal Mohamed Ahmed,11/05/2024,General,Year3,11:00AM - 13:00PM
+2018,4,EECE,24407,402461,Spe.Tops. n Control&Automation,12,LEC,UOS,19,101372,Raouf  Fareh,11/05/2024,General,Year4,11:00AM - 13:00PM
+2019,6,PRLW,21254,601321,Law of Civil Procedures,1,LEB,MAM,18,10413,Ali Abdel Hamid Torki,11/05/2024,General,Year3,11:00AM - 13:00PM
+2023,4,EECE,20997,402330,Feedback Control Systems,13,LEC,UOS,46,101347,Sofiane  Khadraoui,11/05/2024,General,Year3,11:00AM - 13:00PM
+2054,14,CHMS,20005,1420101,General Chemistry (1),04T,LEC,MAM,53,10041,Ideisan I. Abu-Abdoun,11/05/2024,General,Year1,13:30PM - 15:30PM
+2055,14,CHMS,20006,1420101,General Chemistry (1),05T,LEC,MAM,56,101313,Kamrul  Hasan,11/05/2024,General,Year1,13:30PM - 15:30PM
+2056,14,CHMS,20008,1420101,General Chemistry (1),11H,LEC,UOS,55,101313,Kamrul  Hasan,11/05/2024,General,Year1,13:30PM - 15:30PM
+2057,14,CHMS,20003,1420101,General Chemistry (1),2,LEC,MAM,50,10978,Mohamed  El-Naggar,11/05/2024,General,Year1,13:30PM - 15:30PM
+2087,5,PHTH,22147,505263,Biomechanics & Kinesiology(2),72,LEC,MDM,42,101667,Ibrahim Mostafa Abuamr,11/05/2024,General,Year2,13:30PM - 15:30PM
+2091,4,MECH,22468,408202,Fluid Mechanics for ME,11,LEB,UOS,4,101340,Mohammad Ahmad Al Shabi,11/05/2024,General,Year2,13:30PM - 15:30PM
+2119,3,ACCT,20853,301325,International Accounting,11,LEC,UOS,28,102006,A Aziz  Bin Jaafar,11/05/2024,General,Year3,13:30PM - 15:30PM
+2130,15,CENG,20616,1502202,Digital Logic Design Lab.,13,LAB,UOS,19,102029,Khalid  Javeed,11/05/2024,General,Year2,16:00PM - 18:00PM
+2137,15,CENG,24144,1502202,Digital Logic Design Lab.,15,LAB,UOS,17,10581,Mohamed Elsayed Saad,11/05/2024,General,Year2,16:00PM - 18:00PM
+2142,11,PHPR,24440,1102321,Pharmacology 1A,73,LEC,MDM,1,101074,Hany Ahmed Omar,11/05/2024,General,Year3,16:00PM - 18:00PM
+2182,14,CHMS,23405,1420420,Electrochemistry,11,LEC,UOS,7,102136,Montaha Anjass Almasri,11/05/2024,General,Year4,16:00PM - 18:00PM
+2198,5,NURS,20927,503261,Psychosocial Aspects/ Hth Prof,71,LEC,MDM,61,102101,Richard  Mottershead,11/05/2024,General,Year2,16:00PM - 18:00PM

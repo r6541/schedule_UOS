@@ -1,0 +1,50 @@
+id,COL,DEPT,CRN,CRS_NO,TITLE,SECT,TYPE_,CAMP,ENROL,INSTR_ID,INSTRUCTOR,EXAM_DATE,COURSE_TYPE,COURSE_CLASS,time_slot
+103,15,CENG,24491,1502347,Computer Com. and networks Lab,15,LAB,UOS,15,10581,Mohamed Elsayed Saad,01/05/2024,General,Year3,11:00AM - 13:00PM
+168,8,MASS,22338,806201,Media in the UAE,11,LEC,UOS,55,10306,Fawzia Abdulla AlAli,01/05/2024,General,Year2,13:30PM - 15:30PM
+237,15,COSC,23479,1501100,Introduction to IT(English),57V,LEB,MAW,40,102063,Mo'ath Mazin Faleh Mheidat,01/05/2024,General,Year1,16:00PM - 18:00PM
+258,15,COSC,21865,1501100,Introduction to IT(English),73,LEB,MDM,36,102058,Muhammad Anwar Shahid,01/05/2024,General,Year1,16:00PM - 18:00PM
+259,15,COSC,21738,1501100,Introduction to IT(English),54U,LEB,MAW,35,101918,Ayesha Muhammad Talha,01/05/2024,General,Year1,16:00PM - 18:00PM
+260,15,COSC,21740,1501100,Introduction to IT(English),55,LEB,MAW,41,102076,Maged Abdelkhalek Elsayed Mohamed Elsheshtawy,01/05/2024,General,Year1,16:00PM - 18:00PM
+261,15,COSC,21760,1501100,Introduction to IT(English),3,LEB,MAM,43,101514,Nasr Mohamed Abdalla Mohamed,01/05/2024,General,Year1,16:00PM - 18:00PM
+262,15,COSC,21776,1501100,Introduction to IT(English),71,LEB,MDM,36,102063,Mo'ath Mazin Faleh Mheidat,01/05/2024,General,Year1,16:00PM - 18:00PM
+275,2,SOCI,20961,204291,Intro. to Research Methods,1,LEC,MAM,21,P-3067,Maryam Saleem Sulaiman Al-Jaaidi,01/05/2024,General,Year2,16:00PM - 18:00PM
+289,4,CIVL,20140,401142,Man and The Environment,12A,LEC,UOS,85,10974,Ali  Tahmaz,01/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+382,5,CLNU,21195,507101,Health Awareness and Nutrition,12A,LEC,MDM,86,101267,Moezalislam Ezzat Faris,01/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+483,14,APHY,20736,1430101,Astro & Space Sciences,11E,LEC,UOS,84,101805,Antonios  Manousakis,01/05/2024,Uni_Requirement,Year1,13:30PM - 15:30PM
+536,15,COSC,22835,1501100,Introduction to IT(English),78,LEB,MDM,42,101918,Ayesha Muhammad Talha,01/05/2024,General,Year1,16:00PM - 18:00PM
+552,15,COSC,21868,1501100,Introduction to IT(English),76,LEB,MDM,38,102003,Sarah Abdelkarim Abouelfetouh Darwish,01/05/2024,General,Year1,16:00PM - 18:00PM
+555,15,COSC,21743,1501100,Introduction to IT(English),56B,LEB,MAW,36,102003,Sarah Abdelkarim Abouelfetouh Darwish,01/05/2024,General,Year1,16:00PM - 18:00PM
+755,14,APHY,20739,1430101,Astro & Space Sciences,16A,LEC,UOS,72,101982,Awni Moh'd Saleh Kasawneh,01/05/2024,Uni_Requirement,Year1,13:30PM - 15:30PM
+758,14,APHY,20769,1430101,Astro & Space Sciences,14E,LEC,UOS,85,10055,Omar Mohammed Adwan,01/05/2024,Uni_Requirement,Year1,13:30PM - 15:30PM
+803,15,COSC,22965,1501100,Introduction to IT(English),06G,LEB,MAM,41,P-1542,Ammar  Kaziha,01/05/2024,General,Year1,16:00PM - 18:00PM
+810,15,COSC,21764,1501100,Introduction to IT(English),04G,LEB,MAM,40,101514,Nasr Mohamed Abdalla Mohamed,01/05/2024,General,Year1,16:00PM - 18:00PM
+815,15,COSC,21866,1501100,Introduction to IT(English),74,LEB,MDM,36,102003,Sarah Abdelkarim Abouelfetouh Darwish,01/05/2024,General,Year1,16:00PM - 18:00PM
+842,4,CIVL,20153,401142,Man and The Environment,11,LEC,UOS,78,101831,Sourjya  Bhattacharjee,01/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+909,15,CENG,20633,1502347,Computer Com. and networks Lab,11,LAB,UOS,20,10581,Mohamed Elsayed Saad,01/05/2024,General,Year3,11:00AM - 13:00PM
+927,5,CLNU,21201,507101,Health Awareness and Nutrition,71E,LEC,MDM,84,101063,Hadia  Radwan,01/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+928,5,CLNU,21203,507101,Health Awareness and Nutrition,11A,LEC,MDM,88,10914,Reyad Rashid Obaid,01/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+930,5,CLNU,21197,507101,Health Awareness and Nutrition,73E,LEC,MDM,84,102084,Dimitrios  Papandreou,01/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+1025,14,APHY,20767,1430101,Astro & Space Sciences,13E,LEC,UOS,84,10055,Omar Mohammed Adwan,01/05/2024,Uni_Requirement,Year1,13:30PM - 15:30PM
+1047,15,COSC,24384,1501100,Introduction to IT(English),60,LEB,MAW,37,P-2993,Ali  Emad Nehad,01/05/2024,General,Year1,16:00PM - 18:00PM
+1077,15,COSC,21770,1501100,Introduction to IT(English),05V,LEB,MAM,45,102076,Maged Abdelkhalek Elsayed Mohamed Elsheshtawy,01/05/2024,General,Year1,16:00PM - 18:00PM
+1080,15,COSC,21867,1501100,Introduction to IT(English),75,LEB,MDM,36,101514,Nasr Mohamed Abdalla Mohamed,01/05/2024,General,Year1,16:00PM - 18:00PM
+1105,4,CIVL,20149,401142,Man and The Environment,14A,LEC,UOS,82,10974,Ali  Tahmaz,01/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+1194,5,CLNU,21202,507101,Health Awareness and Nutrition,72E,LEC,MDM,85,101609,Leila  Cheikh Ismail,01/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+1253,2,HISL,22440,203443,Mod. & Contemp.  Euro. History,11A,LEC,UOS,38,101594,Khireddine  Chatra,01/05/2024,General,Year4,13:30PM - 15:30PM
+1261,2,SOCI,23652,204183,Popular Culture,11,LEC,UOS,90,101969,Khadija Ahmed Ibrahim Al Balushi,01/05/2024,General,Year1,13:30PM - 15:30PM
+1302,15,COSC,21717,1501100,Introduction to IT(English),52S,LEB,MAW,42,101918,Ayesha Muhammad Talha,01/05/2024,General,Year1,16:00PM - 18:00PM
+1304,15,COSC,21707,1501100,Introduction to IT(English),51,LEB,MAW,40,101918,Ayesha Muhammad Talha,01/05/2024,General,Year1,16:00PM - 18:00PM
+1325,15,COSC,22833,1501100,Introduction to IT(English),77,LEB,MDM,36,102058,Muhammad Anwar Shahid,01/05/2024,General,Year1,16:00PM - 18:00PM
+1558,14,APHY,20738,1430101,Astro & Space Sciences,12A,LEC,UOS,76,101982,Awni Moh'd Saleh Kasawneh,01/05/2024,Uni_Requirement,Year1,13:30PM - 15:30PM
+1608,15,COSC,24414,1501100,Introduction to IT(English),58S,LEB,MAW,36,101514,Nasr Mohamed Abdalla Mohamed,01/05/2024,General,Year1,16:00PM - 18:00PM
+1618,15,COSC,21749,1501100,Introduction to IT(English),01U,LEB,MAM,36,102058,Muhammad Anwar Shahid,01/05/2024,General,Year1,16:00PM - 18:00PM
+1620,15,COSC,21864,1501100,Introduction to IT(English),72,LEB,MDM,41,102058,Muhammad Anwar Shahid,01/05/2024,General,Year1,16:00PM - 18:00PM
+1644,2,SOCI,20959,204291,Intro. to Research Methods,51,LEC,MAW,42,101465,Alaa  Al Taii,01/05/2024,General,Year2,16:00PM - 18:00PM
+1680,4,CIVL,22230,401142,Man and The Environment,16A,LEC,UOS,80,10218,Faiza Sh. Naser,01/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+1683,4,CIVL,22233,401142,Man and The Environment,17A,LEC,UOS,80,10218,Faiza Sh. Naser,01/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+1908,15,COSC,21747,1501100,Introduction to IT(English),79,LEB,MDM,35,102058,Muhammad Anwar Shahid,01/05/2024,General,Year1,16:00PM - 18:00PM
+1913,15,COSC,21753,1501100,Introduction to IT(English),02S,LEB,MAM,42,P-1542,Ammar  Kaziha,01/05/2024,General,Year1,16:00PM - 18:00PM
+1937,4,CIVL,20148,401142,Man and The Environment,13A,LEC,UOS,89,10974,Ali  Tahmaz,01/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+1938,4,CIVL,20150,401142,Man and The Environment,15A,LEC,UOS,84,10218,Faiza Sh. Naser,01/05/2024,Uni_Requirement,Year1,08:30AM - 10:30AM
+2121,14,APHY,20779,1430101,Astro & Space Sciences,14A,LEC,UOS,82,101764,Mashhoor Ahmad Alwardat,01/05/2024,Uni_Requirement,Year1,13:30PM - 15:30PM
+2157,15,COSC,21735,1501100,Introduction to IT(English),53,LEB,MAW,43,102003,Sarah Abdelkarim Abouelfetouh Darwish,01/05/2024,General,Year1,16:00PM - 18:00PM

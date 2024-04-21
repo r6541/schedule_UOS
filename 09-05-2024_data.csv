@@ -1,0 +1,186 @@
+id,COL,DEPT,CRN,CRS_NO,TITLE,SECT,TYPE_,CAMP,ENROL,INSTR_ID,INSTRUCTOR,EXAM_DATE,COURSE_TYPE,COURSE_CLASS,time_slot
+20,8,PUBL,23632,807202,Effective Present. & Speech,12,LEC,UOS,7,101145,Shareefa  Al-Marzooqi,09/05/2024,General,Year2,08:30AM - 10:30AM
+31,5,MLT,23311,501260,Biochemistry,77L,LAB,MDM,24,101745,Dana Faraj Salahat,09/05/2024,General,Year2,08:30AM - 10:30AM
+37,11,PHPR,24532,1104352,Pharmacy Management,74,LEC,MDM,6,101073,Abduel Mula R. Abdul Karem,09/05/2024,General,Year3,08:30AM - 10:30AM
+41,5,PHTH,22138,505262,Assessment in Physiotherapy,73L,LAB,MDM,35,101986,Amal Lahcen Ahbouch,09/05/2024,General,Year2,08:30AM - 10:30AM
+51,2,HISL,22441,203110,Methods of Historical Research,11M,LEC,UOS,29,102133,Mashhad  Al-Allaf,09/05/2024,General,Year1,08:30AM - 10:30AM
+74,14,APHY,20772,1430115,Physics 1,02Z,LEC,MAM,47,101886,Amine  Ahriche,09/05/2024,General,Year1,08:30AM - 10:30AM
+76,14,APHY,20778,1430115,Physics 1,12G,LEC,UOS,42,102114,Mahmoud Rabie Abdel-Hafez,09/05/2024,General,Year1,08:30AM - 10:30AM
+80,14,APHY,20735,1430115,Physics 1,53Q,LEC,MAW,39,102082,Mejd Majid Mohamed Alsari Almheiri,09/05/2024,General,Year1,08:30AM - 10:30AM
+83,15,BUIS,20604,1503330,Systems Analysis and Design,11,LEC,UOS,40,10441,Samar Ahmad Mouakket,09/05/2024,General,Year3,11:00AM - 13:00PM
+91,2,INRE,20358,205101,Introduction to Intern. Rela.,51,LEC,MAW,36,102056,William Charles Frick,09/05/2024,General,Year1,11:00AM - 13:00PM
+119,8,MASS,22160,806265,Web Design - E,11,LEB,UOS,21,101477,Mohammed Fathi A'Aluan Yousaf,09/05/2024,General,Year2,11:00AM - 13:00PM
+121,5,PHTH,22275,505361,PT for Musc. Condition(2),73L,LAB,MDM,28,102159,Mouza Jamal Nasser Rashed Lootah,09/05/2024,General,Year3,11:00AM - 13:00PM
+125,15,CENG,22921,1502201,Digital Logic Design,13,LEC,UOS,53,P-3107,Haitham  Tayyar,09/05/2024,General,Year2,11:00AM - 13:00PM
+130,11,PHPR,21873,1102521,Pharmacology III,71,LEC,MDM,87,10782,Raafat Abd El Gawad El Awady,09/05/2024,General,Year5,11:00AM - 13:00PM
+150,14,CHMS,21463,1426155,General Chemistry for HS,14L,LAB,UOS,24,10236,Ibrahim A. Abdel Rahman,09/05/2024,General,Year1,13:30PM - 15:30PM
+151,14,CHMS,21469,1426155,General Chemistry for HS,20L,LAB,UOS,24,P-3109,Dania Abed Alnaser Mahmoud Altaher,09/05/2024,General,Year1,13:30PM - 15:30PM
+156,6,PRLW,21095,601310,Consumer Protection Laws,51,LEC,MAW,20,101395,Aouataf  Zerara,09/05/2024,General,Year3,13:30PM - 15:30PM
+164,14,CHMS,24543,1426155,General Chemistry for HS,26L,LAB,MDM,24,P-2387,Ines  Bouaziz,09/05/2024,General,Year1,13:30PM - 15:30PM
+165,11,PHCS,22232,1103511,Pharmaceutics3,71,LEC,MDM,34,101763,Mark Rawas Qalaji,09/05/2024,General,Year5,13:30PM - 15:30PM
+171,15,CENG,24399,1502111,Discrete Mathematics for Eng.,1,LEC,MAM,44,P-3107,Haitham  Tayyar,09/05/2024,General,Year1,13:30PM - 15:30PM
+175,14,CHMS,22961,1426155,General Chemistry for HS,22L,LAB,UOS,24,P-3109,Dania Abed Alnaser Mahmoud Altaher,09/05/2024,General,Year1,13:30PM - 15:30PM
+178,5,MLT,21971,501366,Urinalysis & Body Fluids,71,LEC,MDM,42,102040,Muhammad Saboor  Zahoor Ahmad,09/05/2024,General,Year3,13:30PM - 15:30PM
+241,8,MASS,22204,806354,Radio & Tv Editing (2),11,LEB,UOS,17,101782,Omar  J. Abdul Jabar,09/05/2024,General,Year3,16:00PM - 18:00PM
+286,14,BIOT,20484,1450101,General Biology 1,11T,LEC,UOS,52,P-3077,Enas Yasin Muhamed Al-Zubi,09/05/2024,General,Year1,08:30AM - 10:30AM
+303,5,MLT,21713,501260,Biochemistry,78L,LAB,MDM,22,101745,Dana Faraj Salahat,09/05/2024,General,Year2,08:30AM - 10:30AM
+308,5,PHTH,22131,505262,Assessment in Physiotherapy,72,LEC,MDM,62,101667,Ibrahim Mostafa Abuamr,09/05/2024,General,Year2,08:30AM - 10:30AM
+339,14,APHY,20803,1430115,Physics 1,5,LEC,MAM,48,101886,Amine  Ahriche,09/05/2024,General,Year1,08:30AM - 10:30AM
+344,14,APHY,20764,1430115,Physics 1,54,LEC,MAW,36,101823,Hichem  El Euch,09/05/2024,General,Year1,08:30AM - 10:30AM
+348,14,APHY,20765,1430115,Physics 1,03G,LEC,MAM,47,102114,Mahmoud Rabie Abdel-Hafez,09/05/2024,General,Year1,08:30AM - 10:30AM
+349,14,APHY,20798,1430115,Physics 1,1,LEC,MAM,44,102082,Mejd Majid Mohamed Alsari Almheiri,09/05/2024,General,Year1,08:30AM - 10:30AM
+367,14,BIOT,20427,1450492A,Selected Topics in Biotech. A,11,LEC,UOS,20,30144,Ihsan Ali Mahasneh,09/05/2024,General,Year4,11:00AM - 13:00PM
+370,11,PHPR,23717,1102120,Human Anatomy & Physiology II,73,LEC,MDM,95,101309,Rania Awada Harati,09/05/2024,General,Year1,11:00AM - 13:00PM
+397,5,PHTH,22263,505361,PT for Musc. Condition(2),71,LEC,MDM,47,101742,Ashokan  Arumugam,09/05/2024,General,Year3,11:00AM - 13:00PM
+399,4,MECH,22460,408432,Advanced Fluid Mechanics,11,LEC,UOS,23,102117,Hakan Fehmi Oztop,09/05/2024,General,Year4,11:00AM - 13:00PM
+413,2,INRE,24383,205101,Introduction to Intern. Rela.,1,LEC,MAM,39,102177,Andreas  Rechkemmer,09/05/2024,General,Year1,11:00AM - 13:00PM
+417,14,APHY,20841,1460413,Reservoir characterization,11,LEC,UOS,7,101946,Mohamed Ibrahim Abdelfattah Ibrahim Farag,09/05/2024,General,Year4,11:00AM - 13:00PM
+438,14,CHMS,21473,1427107,General Chemistry(1) for MS,74,LEC,MDM,36,10041,Ideisan I. Abu-Abdoun,09/05/2024,General,Year1,13:30PM - 15:30PM
+440,14,CHMS,21461,1426155,General Chemistry for HS,12L,LAB,UOS,24,P-3109,Dania Abed Alnaser Mahmoud Altaher,09/05/2024,General,Year1,13:30PM - 15:30PM
+443,14,CHMS,21456,1426155,General Chemistry for HS,11,LEC,UOS,66,10078,Ayssar Hussein Nahle,09/05/2024,General,Year1,13:30PM - 15:30PM
+449,5,ENVH,20983,506464,Petroleum Pollution & The Envr,71,LEC,MDM,20,101872,Ioannis  Savvaidis,09/05/2024,General,Year4,13:30PM - 15:30PM
+474,5,MLT,21978,501366,Urinalysis & Body Fluids,71L,LAB,MDM,25,10913,Hilda Mahmoud Allam,09/05/2024,General,Year3,13:30PM - 15:30PM
+492,2,EDUC,20027,206330,Early Childhood Teach. Methods,51,LEC,MAW,33,101844,Ali Ahmad Ghaleb Al-Barakat,09/05/2024,General,Year3,16:00PM - 18:00PM
+497,2,INRE,20354,205319,Environment and Sustain. Dev.,11,LEC,UOS,67,101460,Abdelrahman Ahmed Abdelrahman,09/05/2024,General,Year3,16:00PM - 18:00PM
+500,4,CIVL,20411,401301,Engineering Economics,14,LEC,UOS,38,101833,Ram Kumar Bharadwaj Mantha,09/05/2024,General,Year3,16:00PM - 18:00PM
+503,4,CIVL,23778,401301,Engineering Economics,12,LEC,UOS,44,101287,Saleh  Abu Dabous,09/05/2024,General,Year3,16:00PM - 18:00PM
+541,5,MDI,21778,502359,Radiographic & Cross Sectional,71L,LAB,MDM,34,101774,Muna N Kadhom,09/05/2024,General,Year3,16:00PM - 18:00PM
+545,15,COSC,21879,1501252,Comp.Org.and Assembly Language,11,LEB,UOS,52,101842,Ibrahim Abaker Targio Hashem,09/05/2024,General,Year2,16:00PM - 18:00PM
+567,3,FNEC,20963,308230,Financial Management,11,LEC,UOS,54,101256,Ray Saadaoui Mallek,09/05/2024,General,Year2,16:00PM - 18:00PM
+596,6,PRLW,21246,601434,Maritime Law,1,LEC,MAM,34,101088,Mudafar Jaber AL Rawi,09/05/2024,General,Year4,08:30AM - 10:30AM
+600,3,FNEC,21032,308331,Corporate Finance,51,LEC,MAW,15,101257,Mohammad Qasem Al-Shboul,09/05/2024,General,Year3,08:30AM - 10:30AM
+606,5,MLT,21700,501260,Biochemistry,74,LEC,MDM,35,102062,Ghulam MD  Ashraf,09/05/2024,General,Year2,08:30AM - 10:30AM
+632,3,BUSP,23901,302464,Leadership & Management,51,LEC,MAW,44,101637,Moyassar Zuhair Al Yas Al Taie,09/05/2024,General,Year4,08:30AM - 10:30AM
+634,14,APHY,20788,1430110,Physics I for sciences,12U,LEC,UOS,31,101172,Kais  Daoudi,09/05/2024,General,Year1,08:30AM - 10:30AM
+638,14,APHY,20776,1430115,Physics 1,11H,LEC,UOS,52,102082,Mejd Majid Mohamed Alsari Almheiri,09/05/2024,General,Year1,08:30AM - 10:30AM
+641,15,CENG,20613,1502201,Digital Logic Design,11,LEC,UOS,51,101344,Sohaib  Majzoub,09/05/2024,General,Year2,11:00AM - 13:00PM
+643,14,CHMS,20063,1420225,Analytical Chemistry for HS,11,LEC,UOS,60,10078,Ayssar Hussein Nahle,09/05/2024,General,Year2,11:00AM - 13:00PM
+661,5,PHTH,23618,505361,PT for Musc. Condition(2),74L,LAB,MDM,25,102159,Mouza Jamal Nasser Rashed Lootah,09/05/2024,General,Year3,11:00AM - 13:00PM
+667,5,CLNU,22024,507405,Nutrition Counseling & Comm.,71,LEC,MDM,49,101847,Farah  Naja,09/05/2024,General,Year4,11:00AM - 13:00PM
+673,4,MECH,22305,408170,Intro. to Chem.& Env. Sc.&Eng.,11,LEC,UOS,1,101951,Mohd  Sobri Bin Takriff,09/05/2024,General,Year1,11:00AM - 13:00PM
+685,11,PHPR,21741,1102120,Human Anatomy & Physiology II,71,LEC,MDM,34,101309,Rania Awada Harati,09/05/2024,General,Year1,11:00AM - 13:00PM
+688,14,APHY,20841,1460413,Reservoir characterization,11,LEC,UOS,7,102170,Nouf Sultan Saif Mohamed Alteneiji,09/05/2024,General,Year4,11:00AM - 13:00PM
+696,2,EDUC,20007,206101,Introduction to Education,11A,LEC,UOS,82,10519,Abdalla Falah EL Mneizel,09/05/2024,General,Year1,13:30PM - 15:30PM
+701,14,MATH,20234,1440262,Mathematics for Engineers,51,LEC,MAW,26,101320,Muhammad Islam Shafiq Mustafa,09/05/2024,General,Year2,13:30PM - 15:30PM
+703,1,JURF,20442,103105,Intr. to Islamic Jurisprudence,1,LEC,MAM,8,102171,Ibrahim Ali Humaid Almainon Alzaabi,09/05/2024,General,Year1,13:30PM - 15:30PM
+704,1,JURF,20444,103105,Intr. to Islamic Jurisprudence,51,LEC,MAW,7,101180,Dalila  Berraf,09/05/2024,General,Year1,13:30PM - 15:30PM
+706,15,CENG,24097,1502111,Discrete Mathematics for Eng.,51,LEC,MAW,38,102093,Bilal Ahmed Arain,09/05/2024,General,Year1,13:30PM - 15:30PM
+707,14,CHMS,23433,1426155,General Chemistry for HS,1,LEC,MAM,31,10078,Ayssar Hussein Nahle,09/05/2024,General,Year1,13:30PM - 15:30PM
+710,14,CHMS,23440,1427107,General Chemistry(1) for MS,78,LEC,MDM,40,102156,Mohamed Shaban Nafie El Sayed,09/05/2024,General,Year1,13:30PM - 15:30PM
+714,14,CHMS,21475,1427107,General Chemistry(1) for MS,76,LEC,MDM,47,10978,Mohamed  El-Naggar,09/05/2024,General,Year1,13:30PM - 15:30PM
+715,1,FREL,23518,104212,Islamic Creed (2),1,LEC,MAM,16,101853,Zia Ul  Haq,09/05/2024,General,Year2,13:30PM - 15:30PM
+724,6,PRLW,23576,601310,Consumer Protection Laws,11,LEC,MAM,23,101455,Mourad  Benseghir,09/05/2024,General,Year3,13:30PM - 15:30PM
+734,8,MASS,22206,806353,Radio & Tv Editing (1),11,LEB,UOS,10,101782,Omar  J. Abdul Jabar,09/05/2024,General,Year3,13:30PM - 15:30PM
+763,1,JURF,20456,103221,"Juri.of Wor. Pur.,Pray.& Fast.",51,LEC,MAW,17,101453,Mohammad Mahmoud Dojan  Al Emoush,09/05/2024,General,Year2,16:00PM - 18:00PM
+769,4,CIVL,20402,401301,Engineering Economics,11,LEC,UOS,45,101345,Muamer Ali Abuzwidah,09/05/2024,General,Year3,16:00PM - 18:00PM
+770,4,CIVL,20404,401301,Engineering Economics,51,LEC,MAW,41,101833,Ram Kumar Bharadwaj Mantha,09/05/2024,General,Year3,16:00PM - 18:00PM
+773,11,PHPR,23710,1104364,Pharmacoeconomics,71,LEC,MDM,29,101777,Nadia Rashed Ali Almazrouei,09/05/2024,General,Year3,16:00PM - 18:00PM
+816,15,COSC,21882,1501252,Comp.Org.and Assembly Language,12,LEB,UOS,44,101842,Ibrahim Abaker Targio Hashem,09/05/2024,General,Year2,16:00PM - 18:00PM
+818,11,PHPR,23786,1104364,Pharmacoeconomics,72,LEC,MDM,77,101777,Nadia Rashed Ali Almazrouei,09/05/2024,General,Year3,16:00PM - 18:00PM
+854,6,PRLW,21250,601434,Maritime Law,51,LEC,MAW,23,10693,Alaa Yakoob Yousif,09/05/2024,General,Year4,08:30AM - 10:30AM
+869,5,MLT,21693,501260,Biochemistry,71,LEC,MDM,38,101072,Mohamed Ibrahim Madkour,09/05/2024,General,Year2,08:30AM - 10:30AM
+871,5,PHTH,22131,505262,Assessment in Physiotherapy,72,LEC,MDM,62,101795,Meeyoung  Kim,09/05/2024,General,Year2,08:30AM - 10:30AM
+876,11,PHPR,22121,1104240,Intro. Pharm. Prac. &Drug Info,72,LEC,MDM,43,101073,Abduel Mula R. Abdul Karem,09/05/2024,General,Year2,08:30AM - 10:30AM
+903,14,APHY,20789,1430115,Physics 1,51,LEC,MAW,30,101823,Hichem  El Euch,09/05/2024,General,Year1,08:30AM - 10:30AM
+913,4,CIVL,20166,401243,Dynamics,11,LEC,UOS,24,101252,Moussa  Leblouba,09/05/2024,General,Year2,11:00AM - 13:00PM
+916,2,ENGL,20141,202434,Discourse Analysis,11,LEC,UOS,13,101852,Ghaleb Ahmed Ali Rabab'ah,09/05/2024,General,Year4,11:00AM - 13:00PM
+954,11,PHPR,21744,1102120,Human Anatomy & Physiology II,72,LEC,MDM,102,101309,Rania Awada Harati,09/05/2024,General,Year1,11:00AM - 13:00PM
+966,14,MATH,20212,1440262,Mathematics for Engineers,1,LEC,MAM,16,10739,Basim Saleem Atteli,09/05/2024,General,Year2,13:30PM - 15:30PM
+970,1,JURF,20447,103105,Intr. to Islamic Jurisprudence,52S,LEC,MAW,31,101180,Dalila  Berraf,09/05/2024,General,Year1,13:30PM - 15:30PM
+975,14,CHMS,23431,1426155,General Chemistry for HS,51,LEC,MAW,38,102055,Tanveer  Ul Haq,09/05/2024,General,Year1,13:30PM - 15:30PM
+977,14,CHMS,23435,1426155,General Chemistry for HS,23L,LAB,UOS,24,P-2387,Ines  Bouaziz,09/05/2024,General,Year1,13:30PM - 15:30PM
+978,14,CHMS,23437,1426155,General Chemistry for HS,74,LEC,MDM,56,101958,Samar Abdullah M Damiati,09/05/2024,General,Year1,13:30PM - 15:30PM
+980,14,CHMS,21460,1426155,General Chemistry for HS,11L,LAB,UOS,21,102055,Tanveer  Ul Haq,09/05/2024,General,Year1,13:30PM - 15:30PM
+983,14,CHMS,21464,1426155,General Chemistry for HS,15L,LAB,UOS,24,P-3109,Dania Abed Alnaser Mahmoud Altaher,09/05/2024,General,Year1,13:30PM - 15:30PM
+996,3,BUSP,21696,302470,Global Marketing,12,LEC,UOS,52,102049,Salman  Yousaf,09/05/2024,General,Year4,13:30PM - 15:30PM
+1005,4,IEMG,22398,405323,Quality Control & Improvement,11,LEC,UOS,19,10742,Md.  Shamsuzzaman,09/05/2024,General,Year3,13:30PM - 15:30PM
+1023,3,ACCT,20819,301310,Cost and Management Accounting,11,LEC,UOS,41,101792,Yousif Abdelbagi Omer,09/05/2024,General,Year3,13:30PM - 15:30PM
+1032,2,ENGL,20666,202447,Legal Translation,51,LEC,MAW,10,101905,Rania Mostafa Mohammed Ezz Alsabbagh,09/05/2024,General,Year4,16:00PM - 18:00PM
+1054,11,PHPR,21676,1102110,Human Biology,71,LEC,MDM,1,102074,Fatemeh Saheb Askari,09/05/2024,General,Year1,16:00PM - 18:00PM
+1066,4,NUCL,22461,407304,Analytical Methods for NE,11,LEC,UOS,9,102059,Thanh Mai  VU,09/05/2024,General,Year3,16:00PM - 18:00PM
+1068,14,MATH,24599,1440491,Selected Topics in Mathematics,12,LEC,UOS,6,101867,Marwan  Al-Momani,09/05/2024,General,Year4,16:00PM - 18:00PM
+1085,6,PBLW,20882,602271,Princpl of Admin Law &Pub Func,51,LEC,MAW,19,102102,Manal Mirza Mohamed Juma Mohamed,09/05/2024,General,Year2,16:00PM - 18:00PM
+1110,14,APHY,24253,1460226,Envir. Geology & risk Mang.,11,LEC,UOS,14,101671,Hamdan Ali Hamdan,09/05/2024,General,Year2,08:30AM - 10:30AM
+1111,11,PHPR,23713,1104352,Pharmacy Management,73,LEC,MDM,4,101073,Abduel Mula R. Abdul Karem,09/05/2024,General,Year3,08:30AM - 10:30AM
+1129,5,MLT,21703,501260,Biochemistry,75,LEC,MDM,40,102062,Ghulam MD  Ashraf,09/05/2024,General,Year2,08:30AM - 10:30AM
+1130,5,MLT,21711,501260,Biochemistry,75L,LAB,MDM,21,10770,Sondos Abderraheem Harfeel,09/05/2024,General,Year2,08:30AM - 10:30AM
+1138,5,PHTH,22139,505262,Assessment in Physiotherapy,74L,LAB,MDM,30,101986,Amal Lahcen Ahbouch,09/05/2024,General,Year2,08:30AM - 10:30AM
+1151,6,PBLW,23352,602242,Administrative Law (1),51,LEC,MAW,6,102102,Manal Mirza Mohamed Juma Mohamed,09/05/2024,General,Year2,08:30AM - 10:30AM
+1153,4,ARCH,24630,404482,Select. Top. in Arch. Design,12,LEC,UOS,6,P-3038,Bouzid  Boudiaf,09/05/2024,General,Year4,08:30AM - 10:30AM
+1168,8,PUBL,20587,807325,Public Relations Campaigns,51,LEB,MAW,17,10738,Khaled  Zamoum,09/05/2024,General,Year3,11:00AM - 13:00PM
+1169,8,PUBL,20588,807325,Public Relations Campaigns,1,LEB,MAM,11,10738,Khaled  Zamoum,09/05/2024,General,Year3,11:00AM - 13:00PM
+1175,14,CHMS,20064,1420225,Analytical Chemistry for HS,12,LEC,UOS,64,10078,Ayssar Hussein Nahle,09/05/2024,General,Year2,11:00AM - 13:00PM
+1204,2,INRE,24259,205440,Selected Topics in IR,11,LEC,UOS,73,102177,Andreas  Rechkemmer,09/05/2024,General,Year4,11:00AM - 13:00PM
+1211,5,PHTH,22269,505361,PT for Musc. Condition(2),72,LEC,MDM,44,101742,Ashokan  Arumugam,09/05/2024,General,Year3,11:00AM - 13:00PM
+1212,5,PHTH,22272,505361,PT for Musc. Condition(2),71L,LAB,MDM,16,102159,Mouza Jamal Nasser Rashed Lootah,09/05/2024,General,Year3,11:00AM - 13:00PM
+1213,5,PHTH,22273,505361,PT for Musc. Condition(2),72L,LAB,MDM,22,102159,Mouza Jamal Nasser Rashed Lootah,09/05/2024,General,Year3,11:00AM - 13:00PM
+1229,2,ENGL,20155,202449,Practicum in TEFL Skills,51,LEC,MAW,4,10368,Ghaida Adnan Kaziha,09/05/2024,General,Year4,13:30PM - 15:30PM
+1230,14,MATH,20235,1440262,Mathematics for Engineers,11,LEC,UOS,40,10739,Basim Saleem Atteli,09/05/2024,General,Year2,13:30PM - 15:30PM
+1238,14,CHMS,21466,1426155,General Chemistry for HS,17L,LAB,UOS,24,P-3109,Dania Abed Alnaser Mahmoud Altaher,09/05/2024,General,Year1,13:30PM - 15:30PM
+1274,14,APHY,20770,1430332,Electricity & Magnetism 2,11,LEC,UOS,10,101172,Kais  Daoudi,09/05/2024,General,Year3,13:30PM - 15:30PM
+1305,3,FNEC,23788,308230,Financial Management,12,LEC,UOS,65,102034,MD  Mahfuzur Rahman,09/05/2024,General,Year2,16:00PM - 18:00PM
+1314,4,MECH,22462,408300,Analytical Methods in Eng.,11,LEC,UOS,8,102117,Hakan Fehmi Oztop,09/05/2024,General,Year3,16:00PM - 18:00PM
+1334,3,FNEC,24441,308230,Financial Management,13,LEC,UOS,55,102034,MD  Mahfuzur Rahman,09/05/2024,General,Year2,16:00PM - 18:00PM
+1355,2,INRE,20428,205370,International Terrorism,11,LEC,UOS,20,101596,Shyamal  Kataria,09/05/2024,General,Year3,08:30AM - 10:30AM
+1371,8,PUBL,23631,807222,Effective Presentation &Speech,12,LEB,UOS,45,101145,Shareefa  Al-Marzooqi,09/05/2024,General,Year2,08:30AM - 10:30AM
+1372,6,LAW,24046,605103,Intro. to Eng. Comm. law Sys.,11,LEC,UOS,40,101948,Mohammad Owais Farooqui,09/05/2024,General,Year1,08:30AM - 10:30AM
+1376,3,FNEC,21026,308331,Corporate Finance,1,LEC,MAM,23,101257,Mohammad Qasem Al-Shboul,09/05/2024,General,Year3,08:30AM - 10:30AM
+1389,5,MLT,21712,501260,Biochemistry,76L,LAB,MDM,24,10770,Sondos Abderraheem Harfeel,09/05/2024,General,Year2,08:30AM - 10:30AM
+1395,11,PHPR,22119,1104240,Intro. Pharm. Prac. &Drug Info,71,LEC,MDM,80,101073,Abduel Mula R. Abdul Karem,09/05/2024,General,Year2,08:30AM - 10:30AM
+1396,5,PHTH,22136,505262,Assessment in Physiotherapy,72L,LAB,MDM,28,101986,Amal Lahcen Ahbouch,09/05/2024,General,Year2,08:30AM - 10:30AM
+1397,5,PHTH,22125,505262,Assessment in Physiotherapy,71,LEC,MDM,65,101795,Meeyoung  Kim,09/05/2024,General,Year2,08:30AM - 10:30AM
+1499,1,JURF,20545,103327,Jurs.of Int.Relations in Islam,1,LEC,MAM,12,102085,Aziz Farhan M Alenezi,09/05/2024,General,Year3,13:30PM - 15:30PM
+1507,14,MATH,20269,1440381,Mathematical Statistics,11,LEC,UOS,6,101867,Marwan  Al-Momani,09/05/2024,General,Year3,13:30PM - 15:30PM
+1511,14,CHMS,23432,1426155,General Chemistry for HS,52,LEC,MAW,40,101670,Mahreen  Arooj,09/05/2024,General,Year1,13:30PM - 15:30PM
+1512,14,CHMS,23436,1426155,General Chemistry for HS,71,LEC,MDM,41,10877,Ihsan Ahmad Shehadi,09/05/2024,General,Year1,13:30PM - 15:30PM
+1516,14,CHMS,21458,1426155,General Chemistry for HS,72,LEC,MDM,44,102055,Tanveer  Ul Haq,09/05/2024,General,Year1,13:30PM - 15:30PM
+1517,14,CHMS,21459,1426155,General Chemistry for HS,73,LEC,MDM,43,101670,Mahreen  Arooj,09/05/2024,General,Year1,13:30PM - 15:30PM
+1523,14,CHMS,21472,1427107,General Chemistry(1) for MS,73,LEC,MDM,42,10978,Mohamed  El-Naggar,09/05/2024,General,Year1,13:30PM - 15:30PM
+1538,15,COSC,22030,1501443,Human Computer Interaction,11,LEC,UOS,30,101616,Imad  Afyouni,09/05/2024,General,Year4,13:30PM - 15:30PM
+1557,14,CHMS,24474,1426155,General Chemistry for HS,24L,LAB,UOS,24,P-3109,Dania Abed Alnaser Mahmoud Altaher,09/05/2024,General,Year1,13:30PM - 15:30PM
+1576,8,MASS,23453,808102,Media Writing and Editing I,11,LEB,UOS,20,102030,Leon Yousif Barkho,09/05/2024,General,Year1,16:00PM - 18:00PM
+1606,4,IEMG,22397,405322,Engineering Statistics,11,LEC,UOS,19,101554,Salah Haridy Gad Haridy,09/05/2024,General,Year3,16:00PM - 18:00PM
+1615,4,CIVL,24451,401301,Engineering Economics,13,LEC,UOS,34,101345,Muamer Ali Abuzwidah,09/05/2024,General,Year3,16:00PM - 18:00PM
+1641,3,FNEC,20956,308230,Financial Management,11M,LEC,UOS,75,101257,Mohammad Qasem Al-Shboul,09/05/2024,General,Year2,16:00PM - 18:00PM
+1648,6,PBLW,20473,602242,Administrative Law (1),1,LEC,MAM,9,102102,Manal Mirza Mohamed Juma Mohamed,09/05/2024,General,Year2,08:30AM - 10:30AM
+1675,5,MLT,21716,501260,Biochemistry,79L,LAB,MDM,24,101988,Gayathri  Arumughan,09/05/2024,General,Year2,08:30AM - 10:30AM
+1676,5,MLT,21719,501260,Biochemistry,81L,LAB,MDM,25,101988,Gayathri  Arumughan,09/05/2024,General,Year2,08:30AM - 10:30AM
+1677,5,MLT,21706,501260,Biochemistry,73L,LAB,MDM,26,101745,Dana Faraj Salahat,09/05/2024,General,Year2,08:30AM - 10:30AM
+1679,5,MLT,21695,501260,Biochemistry,72,LEC,MDM,53,101072,Mohamed Ibrahim Madkour,09/05/2024,General,Year2,08:30AM - 10:30AM
+1687,5,PHTH,22125,505262,Assessment in Physiotherapy,71,LEC,MDM,65,101667,Ibrahim Mostafa Abuamr,09/05/2024,General,Year2,08:30AM - 10:30AM
+1695,2,HISL,23397,203241,European Medieval History,11A,LEC,UOS,51,10522,Mohamed Munis Ahmed Awad,09/05/2024,General,Year2,08:30AM - 10:30AM
+1721,2,SOCI,20964,204305,Sociology of Work,11,LEC,UOS,63,101093,Omaima Mohamed Abou Elkheir,09/05/2024,General,Year3,08:30AM - 10:30AM
+1726,14,APHY,20734,1430115,Physics 1,57G,LEC,MAW,37,102114,Mahmoud Rabie Abdel-Hafez,09/05/2024,General,Year1,08:30AM - 10:30AM
+1730,15,CENG,20625,1502336,Microcontroller Based Design,11,LEC,UOS,13,102093,Bilal Ahmed Arain,09/05/2024,General,Year3,11:00AM - 13:00PM
+1774,5,PHTH,22263,505361,PT for Musc. Condition(2),71,LEC,MDM,47,101421,Tamer Mohamed Shousha,09/05/2024,General,Year3,11:00AM - 13:00PM
+1777,5,PHTH,22269,505361,PT for Musc. Condition(2),72,LEC,MDM,44,101421,Tamer Mohamed Shousha,09/05/2024,General,Year3,11:00AM - 13:00PM
+1802,1,JURF,20443,103105,Intr. to Islamic Jurisprudence,02S,LEC,MAM,39,101679,Mohamed  Semai,09/05/2024,General,Year1,13:30PM - 15:30PM
+1812,14,CHMS,21465,1426155,General Chemistry for HS,16L,LAB,UOS,24,P-2387,Ines  Bouaziz,09/05/2024,General,Year1,13:30PM - 15:30PM
+1814,14,CHMS,21468,1426155,General Chemistry for HS,19L,LAB,UOS,25,P-3109,Dania Abed Alnaser Mahmoud Altaher,09/05/2024,General,Year1,13:30PM - 15:30PM
+1817,14,CHMS,21471,1427107,General Chemistry(1) for MS,72,LEC,MDM,30,10041,Ideisan I. Abu-Abdoun,09/05/2024,General,Year1,13:30PM - 15:30PM
+1838,11,PHCS,22232,1103511,Pharmaceutics3,71,LEC,MDM,34,10968,Mohamed ali Haider,09/05/2024,General,Year5,13:30PM - 15:30PM
+1841,2,ARAB,22097,201235,Early Islamic and Umayyad Lit.,11,LEC,UOS,9,101761,Leila  Abidi,09/05/2024,General,Year2,13:30PM - 15:30PM
+1849,14,CHMS,22918,1426155,General Chemistry for HS,21L,LAB,UOS,24,10217,Mona Ali Kanj,09/05/2024,General,Year1,13:30PM - 15:30PM
+1884,11,PHPR,21676,1102110,Human Biology,71,LEC,MDM,1,202774,Dana Mazen Zaher,09/05/2024,General,Year1,16:00PM - 18:00PM
+1966,5,PHTH,22134,505262,Assessment in Physiotherapy,71L,LAB,MDM,34,101986,Amal Lahcen Ahbouch,09/05/2024,General,Year2,08:30AM - 10:30AM
+1986,3,BUSP,24005,302464,Leadership & Management,1,LEC,MAM,40,101637,Moyassar Zuhair Al Yas Al Taie,09/05/2024,General,Year4,08:30AM - 10:30AM
+1998,14,APHY,20785,1430110,Physics I for sciences,11T,LEC,UOS,37,101172,Kais  Daoudi,09/05/2024,General,Year1,08:30AM - 10:30AM
+2005,4,CIVL,20165,401243,Dynamics,12,LEC,UOS,21,101252,Moussa  Leblouba,09/05/2024,General,Year2,11:00AM - 13:00PM
+2015,4,MECH,24199,408270,Water Resources and Management,11,LEC,UOS,9,101951,Mohd  Sobri Bin Takriff,09/05/2024,General,Year2,11:00AM - 13:00PM
+2040,8,MASS,22859,808305,Media Law and Ethics,12,LEC,UOS,19,101478,Chinyeaka Ogadimma  Emenyeonu,09/05/2024,General,Year3,11:00AM - 13:00PM
+2044,15,CENG,24148,1502201,Digital Logic Design,14,LEC,UOS,43,102172,Kais  Belwafi,09/05/2024,General,Year2,11:00AM - 13:00PM
+2052,1,FREL,20572,104212,Islamic Creed (2),51,LEC,MAW,18,102001,Reda Ibrahim Ibrahim Alsayed Abdelgalil,09/05/2024,General,Year2,13:30PM - 15:30PM
+2053,1,JURF,20546,103327,Jurs.of Int.Relations in Islam,51,LEC,MAW,18,102085,Aziz Farhan M Alenezi,09/05/2024,General,Year3,13:30PM - 15:30PM
+2068,14,CHMS,21474,1427107,General Chemistry(1) for MS,75,LEC,MDM,40,102156,Mohamed Shaban Nafie El Sayed,09/05/2024,General,Year1,13:30PM - 15:30PM
+2069,14,CHMS,21462,1426155,General Chemistry for HS,13L,LAB,UOS,24,101958,Samar Abdullah M Damiati,09/05/2024,General,Year1,13:30PM - 15:30PM
+2071,14,CHMS,21467,1426155,General Chemistry for HS,18L,LAB,UOS,25,P-3109,Dania Abed Alnaser Mahmoud Altaher,09/05/2024,General,Year1,13:30PM - 15:30PM
+2072,14,CHMS,21470,1427107,General Chemistry(1) for MS,71,LEC,MDM,44,10978,Mohamed  El-Naggar,09/05/2024,General,Year1,13:30PM - 15:30PM
+2079,15,COSC,23360,1501443,Human Computer Interaction,12,LEC,UOS,32,101616,Imad  Afyouni,09/05/2024,General,Year4,13:30PM - 15:30PM
+2109,5,MLT,21985,501366,Urinalysis & Body Fluids,73L,LAB,MDM,22,10913,Hilda Mahmoud Allam,09/05/2024,General,Year3,13:30PM - 15:30PM
+2114,5,MLT,21975,501366,Urinalysis & Body Fluids,72,LEC,MDM,26,102040,Muhammad Saboor  Zahoor Ahmad,09/05/2024,General,Year3,13:30PM - 15:30PM
+2115,5,MLT,21980,501366,Urinalysis & Body Fluids,72L,LAB,MDM,21,10913,Hilda Mahmoud Allam,09/05/2024,General,Year3,13:30PM - 15:30PM
+2134,1,JURF,20454,103221,"Juri.of Wor. Pur.,Pray.& Fast.",1,LEC,MAM,16,102171,Ibrahim Ali Humaid Almainon Alzaabi,09/05/2024,General,Year2,16:00PM - 18:00PM
+2138,4,CIVL,20408,401301,Engineering Economics,3,LEC,MAM,39,101287,Saleh  Abu Dabous,09/05/2024,General,Year3,16:00PM - 18:00PM
+2162,8,MASS,22162,806241,Intro. to Online Journalism,11,LEB,UOS,22,10841,Nassir  Bou Ali,09/05/2024,General,Year2,16:00PM - 18:00PM
+2185,3,BUSP,23897,302441,Transportation Planning & Mng.,12,LEC,UOS,16,102132,Usha  Ramanathan,09/05/2024,General,Year4,16:00PM - 18:00PM
+2196,6,PBLW,20876,602271,Princpl of Admin Law &Pub Func,1,LEC,MAM,25,102102,Manal Mirza Mohamed Juma Mohamed,09/05/2024,General,Year2,16:00PM - 18:00PM

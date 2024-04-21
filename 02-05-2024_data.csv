@@ -1,0 +1,48 @@
+id,COL,DEPT,CRN,CRS_NO,TITLE,SECT,TYPE_,CAMP,ENROL,INSTR_ID,INSTRUCTOR,EXAM_DATE,COURSE_TYPE,COURSE_CLASS,time_slot
+36,3,FNEC,23803,308438,Seminar in Finance & Banking,51,LEC,MAW,16,102009,Abdus Sabur  Mollah,02/05/2024,General,Year4,08:30AM - 10:30AM
+87,2,ENGL,23108,202121,English For Medical Sciences 1,78,LEC,MDM,80,101151,Myssan Sameer Al laysy Stouhi,02/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+88,2,ENGL,20145,202121,English For Medical Sciences 1,72,LEC,MDM,41,10669,Inaam  Hamadi,02/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+113,15,COSC,21613,1501101,Introduction to IT(Arabic),1,LEB,MAM,41,102076,Maged Abdelkhalek Elsayed Mohamed Elsheshtawy,02/05/2024,General,Year1,11:00AM - 13:00PM
+187,2,SOCI,20968,204331,Social Problems,51,LEC,MAW,75,101967,Asma Hamdan Mohamed Ahmed Alsaadi,02/05/2024,General,Year3,13:30PM - 15:30PM
+198,2,ENGL,20651,202112,English for Academic Purposes,20K,LEC,UOS,0,,  ,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+203,2,ENGL,20109,202112,English for Academic Purposes,14F,LEC,UOS,64,10662,Dana Aziz Khalil,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+385,15,COSC,21702,1501101,Introduction to IT(Arabic),53,LEB,MAW,40,102063,Mo'ath Mazin Faleh Mheidat,02/05/2024,General,Year1,11:00AM - 13:00PM
+387,15,COSC,21614,1501101,Introduction to IT(Arabic),2,LEB,MAM,38,101514,Nasr Mohamed Abdalla Mohamed,02/05/2024,General,Year1,11:00AM - 13:00PM
+487,2,ENGL,20664,202112,English for Academic Purposes,16B,LEC,UOS,60,101224,Nada Mohamed Abdalla Al Hammadi,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+494,2,ENGL,20087,202112,English for Academic Purposes,21G,LEC,UOS,24,10720,Suheir Mustafa Abu Hantash,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+573,2,ENGL,20880,202112,English for Academic Purposes,24K,LEC,UOS,41,101153,Samer Omar Jarbou,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+586,14,MATH,20214,1440098,Remedial Math,11H,LEC,UOS,89,10883,Kholoud Mustafa Abu Rezq,02/05/2024,General,,08:30AM - 10:30AM
+587,14,MATH,20220,1440098,Remedial Math,51G,LEC,UOS,87,10883,Kholoud Mustafa Abu Rezq,02/05/2024,General,,08:30AM - 10:30AM
+609,3,FNEC,23802,308438,Seminar in Finance & Banking,1,LEC,MAM,12,102009,Abdus Sabur  Mollah,02/05/2024,General,Year4,08:30AM - 10:30AM
+757,2,SOCI,20966,204331,Social Problems,1,LEC,MAM,51,102057,Noura Nasir Salim Musfar Alkarbi,02/05/2024,General,Year3,13:30PM - 15:30PM
+779,2,HISL,24488,203200,Hist of Sciences among Muslims,12A,LEC,UOS,40,102042,Nader  El-Bizri,02/05/2024,Uni_Requirement,Year2,16:00PM - 18:00PM
+847,14,MATH,20272,1440098,Remedial Math,12W,LEC,UOS,101,101009,Nida  Siddiqui,02/05/2024,General,,08:30AM - 10:30AM
+849,14,MATH,20218,1440098,Remedial Math,01Z,LEC,UOS,85,101009,Nida  Siddiqui,02/05/2024,General,,08:30AM - 10:30AM
+863,2,SOCI,20995,204493,Applied Sociology,11,LEC,UOS,53,102045,Nora  Guenifa,02/05/2024,General,Year4,08:30AM - 10:30AM
+914,2,ENGL,20147,202121,English For Medical Sciences 1,75,LEC,MDM,51,10669,Inaam  Hamadi,02/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+918,2,ENGL,20144,202121,English For Medical Sciences 1,74,LEC,MDM,31,10669,Inaam  Hamadi,02/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+919,2,ENGL,20178,202121,English For Medical Sciences 1,71,LEC,MDM,78,10723,Abdellatif  Messikh,02/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+956,2,ENGL,20892,202121,English For Medical Sciences 1,70,LEC,MDM,59,10723,Abdellatif  Messikh,02/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+1038,2,ENGL,20097,202112,English for Academic Purposes,11U,LEC,UOS,30,10665,Adnan A Al Bustanji,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+1091,2,ENGL,20883,202112,English for Academic Purposes,15U,LEC,UOS,37,10720,Suheir Mustafa Abu Hantash,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+1198,15,COSC,21618,1501101,Introduction to IT(Arabic),51,LEB,MAW,36,P-1542,Ammar  Kaziha,02/05/2024,General,Year1,11:00AM - 13:00PM
+1277,2,ENGL,20635,202112,English for Academic Purposes,23Z,LEC,UOS,59,10658,Mutwakil Ibrahim Manzol,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+1278,2,ENGL,20650,202112,English for Academic Purposes,22B,LEC,UOS,36,101463,Reem Abdalla Yousif  Al Hajji,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+1297,2,ENGL,23109,202112,English for Academic Purposes,12B,LEC,UOS,36,10665,Adnan A Al Bustanji,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+1313,2,HISL,22438,203200,Hist of Sciences among Muslims,11A,LEC,UOS,69,10522,Mohamed Munis Ahmed Awad,02/05/2024,Uni_Requirement,Year2,16:00PM - 18:00PM
+1451,2,ENGL,20176,202121,English For Medical Sciences 1,77,LEC,MDM,79,101151,Myssan Sameer Al laysy Stouhi,02/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+1472,15,COSC,21622,1501101,Introduction to IT(Arabic),52A,LEB,MAW,36,102063,Mo'ath Mazin Faleh Mheidat,02/05/2024,General,Year1,11:00AM - 13:00PM
+1588,2,ENGL,23110,202112,English for Academic Purposes,19Q,LEC,UOS,41,101151,Myssan Sameer Al laysy Stouhi,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+1589,2,ENGL,23112,202112,English for Academic Purposes,26G,LEC,UOS,30,10665,Adnan A Al Bustanji,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+1612,8,COMM,22966,800100,Intro. to Communication (A),13,LEC,UOS,104,10306,Fawzia Abdulla AlAli,02/05/2024,General,Year1,16:00PM - 18:00PM
+1613,2,ENGL,22985,202112,English for Academic Purposes,18S,LEC,UOS,43,101151,Myssan Sameer Al laysy Stouhi,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+1655,14,MATH,20213,1440098,Remedial Math,03G,LEC,UOS,88,101009,Nida  Siddiqui,02/05/2024,General,,08:30AM - 10:30AM
+1659,14,MATH,23875,1440098,Remedial Math,2,LEC,UOS,88,10883,Kholoud Mustafa Abu Rezq,02/05/2024,General,,08:30AM - 10:30AM
+1740,2,ENGL,20146,202121,English For Medical Sciences 1,73,LEC,MDM,34,10723,Abdellatif  Messikh,02/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+1751,2,ENGL,23503,202121,English For Medical Sciences 1,79,LEC,MDM,22,10669,Inaam  Hamadi,02/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+1764,15,COSC,21704,1501101,Introduction to IT(Arabic),54,LEB,MAW,40,102076,Maged Abdelkhalek Elsayed Mohamed Elsheshtawy,02/05/2024,General,Year1,11:00AM - 13:00PM
+1773,5,PHTH,22080,505101,Fitness and Wellness,71E,LEC,MDM,87,102159,Mouza Jamal Nasser Rashed Lootah,02/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+1863,2,ENGL,20630,202112,English for Academic Purposes,13H,LEC,UOS,47,10658,Mutwakil Ibrahim Manzol,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+1871,2,ENGL,23500,202112,English for Academic Purposes,27,LEC,UOS,24,10658,Mutwakil Ibrahim Manzol,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
+2006,2,ENGL,20143,202121,English For Medical Sciences 1,76,LEC,MDM,28,10669,Inaam  Hamadi,02/05/2024,Uni_Requirement,Year1,11:00AM - 13:00PM
+2135,2,ENGL,20112,202112,English for Academic Purposes,17V,LEC,UOS,26,10720,Suheir Mustafa Abu Hantash,02/05/2024,Uni_Requirement,Year1,16:00PM - 18:00PM
